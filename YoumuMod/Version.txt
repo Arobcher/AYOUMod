@@ -1,2 +1,2 @@
-1.2.4.5.0;false;false/n
+1.2.4.5.0;true;false/n
 &aA &enew YoumuMod version need update&a,pleases update YouMuMod![点我下载]:;http://dwz.cn/6vMbPd
