@@ -1,3 +1,2 @@
-false;60;true/n
-&a网易CC搜索&e千河河河&a[点我进入]:;http://cc.163.com/242506240/n
-&a网易CC搜索&e白小Baibbbb&a[点我进入]:;http://cc.163.com/219700392
+true;120;true/n
+&a我的世界中国ban皮肤站上线啦！&a[点我进入]:;http://wdsjcn.com:8888
