@@ -1,2 +1,2 @@
-false;120;true/n
+true;120;true/n
 &a我的世界国服皮肤站上线啦！&a[点我查询]:;http://dwz.cn/6ubJQ5
