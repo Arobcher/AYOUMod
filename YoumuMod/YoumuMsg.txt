@@ -1,3 +1,3 @@
-false;300;true/n
-&aMC交流Group: &e431815734&a[点我加群]:;http://dwz.cn/6ubJQ5/n
-&aMC交流Group: &e431815734&a[点我加群]:;http://dwz.cn/6ubJQ5
+true;300;true/n
+&a请更新Youmukonpaku Mod.[点击下载]:;http://dwz.cn/6VtcXy/n
+&a请更新Youmukonpaku Mod.[点击下载]:;http://dwz.cn/6VtcXy
